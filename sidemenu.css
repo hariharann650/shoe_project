@@ -1,0 +1,26 @@
+.sub-menu{
+    height:39.99px;
+    margin-top:37px;
+    background-color: #f1f3f6;
+    color:black;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-between;
+    margin-bottom:12px;
+}
+.sub-menu p{
+    font-size:14.3px;
+    font-weight: 500;
+    color:black;
+}
+.electronics{
+    padding-left:20px;
+}
+.sub-menu .TV p:hover{
+    color:#2874f0;
+    cursor: pointer;
+}
+.sub-menu .TV p{
+    padding-left:25px;
+}
